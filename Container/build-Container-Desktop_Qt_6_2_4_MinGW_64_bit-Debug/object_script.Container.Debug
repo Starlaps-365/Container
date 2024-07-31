@@ -1,0 +1,17 @@
+debug/box.o
+debug/code.o
+debug/container.o
+debug/containerfactory.o
+debug/cylinder.o
+debug/main.o
+debug/mainwindow.o
+debug/pallet.o
+debug/serialize.o
+debug/toxml.o
+debug/unallocatedcontainer.o
+debug/unallocatedmemento.o
+debug/moc_box.o
+debug/moc_container.o
+debug/moc_cylinder.o
+debug/moc_mainwindow.o
+debug/moc_serialize.o

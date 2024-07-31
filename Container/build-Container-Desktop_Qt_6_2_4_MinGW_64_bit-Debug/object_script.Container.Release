@@ -1,0 +1,17 @@
+release/box.o
+release/code.o
+release/container.o
+release/containerfactory.o
+release/cylinder.o
+release/main.o
+release/mainwindow.o
+release/pallet.o
+release/serialize.o
+release/toxml.o
+release/unallocatedcontainer.o
+release/unallocatedmemento.o
+release/moc_box.o
+release/moc_container.o
+release/moc_cylinder.o
+release/moc_mainwindow.o
+release/moc_serialize.o
